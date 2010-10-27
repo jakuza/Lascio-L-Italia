@@ -1,0 +1,25 @@
+body, td
+{
+  font-family:  'Helvetica Neue', Helvetica, Arial, sans-serif; !important;
+  font-size:    14px;
+}
+
+#tweets
+{
+  font-family:      serif, sans-serif; !important;
+  list-style-type:  none;
+}
+
+.avatar
+{
+}
+
+.timestamp
+{
+  
+}
+
+.tweet_first
+{
+  font-size:  3em;
+}
